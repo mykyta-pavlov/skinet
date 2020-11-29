@@ -6,4 +6,3 @@ export interface IAddress {
     state: string;
     zipcode: string;
   }
-  
